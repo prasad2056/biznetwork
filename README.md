@@ -68,29 +68,29 @@ The project is built using modern frontend development tools.
 
 ## Project Structure
 
-business-network-platform
-│
-├── node_modules
-├── public
-│   └── vite.svg
-│
-├── src
-│   ├── components
-│   │   ├── Navbar.jsx
-│   │   ├── Hero.jsx
-│   │   ├── HowItWorks.jsx
-│   │   ├── Features.jsx
-│   │   ├── WhyChooseUs.jsx
-│   │   ├── WhoShouldJoin.jsx
-│   │   ├── Testimonials.jsx
-│   │   ├── CTA.jsx
-│   │   └── Footer.jsx
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── style.css
-│
-├── package.json
+business-network-platform 
+│ 
+├── node_modules 
+├── public 
+│ └── vite.svg 
+│ 
+├── src 
+│ ├── components 
+│ │ ├── Navbar.jsx 
+│ │ ├── Hero.jsx 
+│ │ ├── HowItWorks.jsx 
+│ │ ├── Features.jsx 
+│ │ ├── WhyChooseUs.jsx 
+│ │ ├── WhoShouldJoin.jsx 
+│ │ ├── Testimonials.jsx 
+│ │ ├── CTA.jsx 
+│ │ └── Footer.jsx 
+│ │ 
+│ ├── App.jsx 
+│ ├── main.jsx 
+│ └── style.css 
+│ 
+├── package.json 
 └── README.md
 
 ---
