@@ -1,9 +1,9 @@
 function Features() {
   const features = [
-    { title: "Referral Management", text: "Easily create, share, and track referrals. Monitor the progress of each referral from initial contact to successful closure. ", icon: "📩" },
-    { title: "Meeting Management", text: "Build Relationships", icon: "🗂️" },
-    { title: "Member Directory", text: "Grow Your Clients", icon: "🪪" },
-    { title: "Performance Dashboard", text: "Monitor Success", icon: "📊" },
+    { title: "Referral Management", text: "Create and share referrals easily, and track their progress from the first contact until the deal is successfully closed. ", icon: "📩" },
+    { title: "Meeting Management", text: "View upcoming meetings, check agendas, and mark attendance to stay active and engaged in your chapter. ", icon: "🗂️" },
+    { title: "Member Directory", text: "Access a verified list of chapter professionals and connect with members based on their business category and expertise.", icon: "🪪" },
+    { title: "Performance Dashboard", text: "Track important metrics like referrals given, referrals received, business closed value, and attendance percentage.", icon: "📊" },
   ];
 
   return (
