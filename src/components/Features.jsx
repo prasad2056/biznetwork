@@ -1,6 +1,6 @@
 function Features() {
   const features = [
-    { title: "Referral Management", text: "Choose Your Group", icon: "📩" },
+    { title: "Referral Management", text: "Easily create, share, and track referrals. Monitor the progress of each referral from initial contact to successful closure. ", icon: "📩" },
     { title: "Meeting Management", text: "Build Relationships", icon: "🗂️" },
     { title: "Member Directory", text: "Grow Your Clients", icon: "🪪" },
     { title: "Performance Dashboard", text: "Monitor Success", icon: "📊" },
