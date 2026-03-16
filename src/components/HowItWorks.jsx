@@ -1,9 +1,9 @@
 function HowItWorks() {
   const items = [
-    { title: "Join a Chapter", text: "Choose Your Group", icon: "🏠" },
-    { title: "Attend Meetings", text: "Build Relationships", icon: "💬" },
-    { title: "Exchange Referrals", text: "Grow Your Clients", icon: "👥" },
-    { title: "Track Growth", text: "Monitor Success", icon: "✅" },
+    { title: "Join a Chapter", text: "Select a chapter based on your location and business category, where professionals from different industries collaborate without competition.", icon: "🏠" },
+    { title: "Attend Meetings", text: "Join regular meetings to build trust, increase visibility, and develop strong professional relationships with members.", icon: "💬" },
+    { title: "Exchange Referrals", text: "Give and receive business referrals within your chapter to grow your client base. 📈🤝", icon: "👥" },
+    { title: "Track Growth", text: "Track referrals, conversions, and revenue through a dashboard that helps measure real business growth", icon: "✅" },
   ];
 
   return (
